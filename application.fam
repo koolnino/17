@@ -1,0 +1,8 @@
+App(
+    appid="poster",
+    name="Poster Viewer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="poster_main",
+    fap_category="Graphics",
+    fap_icon="loc_lac.xbm"
+)
